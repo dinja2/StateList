@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Simple List From Resurces</string>
+    <string name="name">Название</string>
+    <string name="capital">Столица</string>
+
+    <string-array name="country">
+        <item>Бразилия</item>
+        <item>Аргентина</item>
+        <item>Колумбия</item>
+        <item>Уругвай</item>
+        <item>Чили</item>
+    </string-array>
+
+    <string-array name="capital">
+        <item>Бразилия</item>
+        <item>Буэнос Аэрос</item>
+        <item>Богота</item>
+        <item>Монтевидео</item>
+        <item>Сантиаго</item>
+    </string-array>
+
+    <string-array name="flag">
+        <item>brazil</item>
+        <item>argentina</item>
+        <item>columbia</item>
+        <item>uruguay</item>
+        <item>chilie</item>
+    </string-array>
+
+</resources>

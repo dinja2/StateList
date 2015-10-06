@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Simple List From Resurces</string>
+    <string name="name">Country</string>
+    <string name="capital">Capital</string>
+
+    <string-array name="country">
+        <item>Brazil</item>
+        <item>Argentina</item>
+        <item>Columbia</item>
+        <item>Uruguay</item>
+        <item>Chile</item>
+    </string-array>
+
+    <string-array name="capital">
+        <item>Brasília</item>
+        <item>Buenos Aires</item>
+        <item>Bogota</item>
+        <item>Montevideo</item>
+        <item>Santiago</item>
+    </string-array>
+
+    <string-array name="flag">
+        <item>brazil</item>
+        <item>argentina</item>
+        <item>columbia</item>
+        <item>uruguay</item>
+        <item>chilie</item>
+    </string-array>
+
+</resources>
+
